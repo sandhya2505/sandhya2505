@@ -1,19 +1,17 @@
-[![MasterHead](https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif)](https://github.com/sandhya2505)
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12990C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandhya;Front-end+developer." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12990C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandhya;Front-end+developer." alt="Typing SVG" /></a></p>
 
 <img
   align="right"
-  width="400"
+  width="200"
   alt="coding"
   src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"
 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya2505&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya2505" /> </p>
 
-- 🌱 I’m currently pursuing  ➛ **Computer Science and Engineering in NMAM Institute of Technology.**
-
+- 🌱 I’m currently studying ➛ **Computer Science and Engineering **
+- 🥰 I love to work with javascript and React.
+- 😀   I  always ready to learn new Technologies.
 
 
 <h3 align="left">Languages and Tools:</h3>
