@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya2505&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya2505" /> </p>
 
-- 🌱 I’m currently studying ➛ **Computer Science and Engineering **
+- 🌱 I’m currently studying ➛ **Information Science and Engineering **
 - 🥰 I love to work with javascript and React.
 - 😀   I  always ready to learn new Technologies.
 
